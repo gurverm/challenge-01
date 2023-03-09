@@ -14,7 +14,9 @@ Web inspecting the code it will be found that in the HTML file there are semanti
 
 Horiseon, the webpage that is now more accessible, is a social solution service that provides users with information pertaining to search engine optimization, online reputation management, and social media marketing. 
 
-![alt text] (/assets/images/Capture.PNG)
+The following screenshot is an example of the use of semantic elements taken from the HTML file. First there is a figure element added to the largest image on the webpage, which was lacking in the starter code. Next, seen under main, the section element had been given an id and class which allows the webpage navigation links to move the page to the desired section when clicked upon.
+
+![HTML semantic elements] (./assets/images/Capture.PNG)
 
 
 ## Credits
