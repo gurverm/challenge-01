@@ -16,7 +16,7 @@ Horiseon, the webpage that is now more accessible, is a social solution service 
 
 The following screenshot is an example of the use of semantic elements taken from the HTML file. First there is a figure element added to the largest image on the webpage, which was lacking in the starter code. Next, seen under main, the section element had been given an id and class which allows the webpage navigation links to move the page to the desired section when clicked upon.
 
-![HTML semantic elements] (./assets/images/Capture.PNG)
+![HTML semantic elements](/assets/images/Capture.PNG)
 
 
 ## Credits
